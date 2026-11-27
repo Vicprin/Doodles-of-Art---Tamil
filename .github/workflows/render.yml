@@ -1,1 +1,5 @@
-
+cd doodle-of-art
+git init && git add . && git commit -m "first scene"
+git branch -M main
+git remote add origin https://github.com/YOUR-NAME/YOUR-REPO.git
+git push -u origin main
