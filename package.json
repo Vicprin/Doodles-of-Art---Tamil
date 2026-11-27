@@ -1,0 +1,10 @@
+{
+  "name": "doodle-of-art-3d",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts Scene01 out/scene01.mp4",
+    "render:all": "remotion render src/index.ts Chapter1 out/chapter1.mp4"
+  }
+}
